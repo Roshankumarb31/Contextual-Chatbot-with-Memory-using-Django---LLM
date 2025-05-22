@@ -1,0 +1,16 @@
+# Core Framework
+django
+
+# LangChain & Google Generative AI
+langchain
+langchain-google-genai
+google-generativeai
+
+# Database
+psycopg2-binary
+
+# Machine Learning & Utilities
+tensorflow
+numpy
+faiss-cpu
+pickle5

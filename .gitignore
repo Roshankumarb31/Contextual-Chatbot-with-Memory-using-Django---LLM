@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3-journal
+local_settings.py
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# Pyre type checker
+.pyre/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+.cache
+
+# Pytest
+.pytest_cache/
+
+# Migrations (optional, if you want to ignore auto-generated migrations)
+**/migrations/*.py
+!**/migrations/__init__.py
