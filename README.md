@@ -1,4 +1,3 @@
-```markdown
 # QueryBot 🧠💬
 
 **QueryBot** is a smart, memory-aware chatbot powered by **LangChain**, **Google Gemini**, and **Django**. It understands natural language queries, maintains context across conversations, generates and executes SQL queries, and can optionally perform image-based similarity searches using **FAISS** and **ResNet50**.
@@ -49,8 +48,9 @@ querybot/
 ├── manage.py
 ├── requirements.txt
 └── README.md
+```
 
-````
+
 
 ---
 
